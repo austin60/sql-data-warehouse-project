@@ -1,0 +1,1201 @@
+order_id,customer_id,product,quantity,price,order_date,status
+0,9,laptop,,200,,
+1,129,mouse,,300,,cancelled
+2,75,keyboard,3,300,5/29/2023 0:00,cancelled
+3,155,desk ,2,400,12/2/2023 0:00,pending
+4,155,laptop,,200,,shipped
+5,263,laptop,1,200,3/29/2023 0:00,
+6,4,laptop,5,300,,
+7,270,keyboard,,300,,shipped
+8,293,mouse,2,400,,pending
+9,179,,,100,,pending
+10,227,chair ,4,500,,shipped
+11,99,mouse,,unknown,1/11/2024 0:00,
+12,20,mouse,1,unknown,,shipped
+13,188,desk ,1,unknown,,
+14,220,keyboard,1,400,,
+15,253,chair,,500,3/3/2023 0:00,cancelled
+16,205,keyboard,3,100,,shipped
+17,88,keyboard,4,,3/5/2023 0:00,pending
+18,32,keyboard,4,500,5/14/2023 0:00,shipped
+19,203,desk,5,,,pending
+20,214,laptop,4,unknown,,
+21,168,laptop,2,300,,pending
+22,80,,2,100,,
+23,66,keyboard,5,unknown,,cancelled
+24,161,,2,,,
+25,96,laptop,4,100,2/3/2024 0:00,cancelled
+26,278,laptop,4,unknown,,
+27,260,,4,,,shipped
+,19,laptop ,,100,12/30/2023 0:00,pending
+29,215,mouse,3,300,,pending
+30,237,desk,3,300,,
+31,170,laptop,2,,,pending
+32,81,keyboard,3,unknown,,pending
+33,187,desk,,100,,
+34,103,,3,,,pending
+35,208,chair,2,,,cancelled
+36,225,keyboard,4,500,,cancelled
+,289,keyboard,4,100,,
+38,200,laptop,,200,,shipped
+39,218,laptop,1,100,,pending
+40,284,mouse,,200,,pending
+41,134,mouse,5,200,,
+42,8,keyboard,3,,10/21/2023 0:00,shipped
+43,212,keyboard,2,unknown,,cancelled
+44,128,,1,100,8/23/2023 0:00,cancelled
+45,86,KEYBOARD,3,500,,cancelled
+46,160,MOUSE,4,300,,
+47,221,laptop,5,100,11/16/2023 0:00,pending
+48,42,keyboard,4,300,2/9/2023 0:00,
+49,165,chair,4,500,,shipped
+50,144,chair,4,,12/17/2023 0:00,pending
+51,265,desk,,unknown,11/3/2023 0:00,
+,251,desk,,400,11/9/2023 0:00,
+53,180,mouse,3,,,pending
+54,272,chair,,500,,pending
+55,69,MOUSE,4,400,,shipped
+56,5,mouse,2,,,cancelled
+57,215,desk,,,4/20/2023 0:00,shipped
+58,102,laptop,3,400,,shipped
+59,80,,4,300,10/18/2023 0:00,cancelled
+60,243,chair,,100,,cancelled
+61,19,desk,2,500,9/9/2023 0:00,cancelled
+62,256,chair,5,unknown,6/9/2023 0:00,pending
+63,275,mouse,3,200,1/30/2023 0:00,cancelled
+64,190,,4,200,1/25/2023 0:00,cancelled
+65,95,,1,500,1/14/2024 0:00,shipped
+66,175,chair,,200,,
+,71,chair,2,300,,shipped
+68,70,mouse ,3,200,,shipped
+69,163,desk ,4,400,,
+70,260,laptop,4,,,
+71,149,laptop,1,300,,
+72,163,laptop,,200,1/26/2024 0:00,shipped
+73,15,laptop,,200,,
+74,55,mouse,4,100,2/13/2023 0:00,shipped
+75,20,chair,,400,,shipped
+76,57,keyboard,5,500,1/20/2024 0:00,pending
+77,123,LAPTOP,,100,,cancelled
+78,23,laptop ,5,unknown,,shipped
+79,160,keyboard,2,200,,shipped
+80,176,chair,,,,cancelled
+81,282,keyboard ,,,,shipped
+82,209,KEYBOARD,2,unknown,,
+83,35,mouse,3,200,,shipped
+84,277,keyboard,1,400,12/16/2023 0:00,pending
+85,282,desk,,400,,
+86,89,desk,,200,9/16/2023 0:00,
+87,11,laptop,5,unknown,1/20/2023 0:00,shipped
+88,26,DESK,2,300,4/10/2023 0:00,cancelled
+89,298,chair,,unknown,,cancelled
+90,76,laptop,5,100,,cancelled
+91,109,desk,2,100,4/18/2023 0:00,cancelled
+92,13,keyboard,,unknown,,shipped
+93,70,mouse,4,300,6/9/2023 0:00,cancelled
+94,54,chair,2,200,,shipped
+95,217,keyboard,,400,,cancelled
+96,88,mouse,2,100,12/2/2023 0:00,cancelled
+97,30,keyboard,4,,,cancelled
+98,99,mouse,4,unknown,,pending
+99,178,,5,200,,shipped
+100,54,mouse,,200,12/10/2023 0:00,
+101,164,keyboard,,100,,cancelled
+102,160,keyboard,5,400,,
+103,177,laptop,5,100,,shipped
+104,239,,,100,,cancelled
+105,123,desk,5,500,,pending
+106,187,desk ,2,300,3/10/2023 0:00,shipped
+107,288,laptop,1,400,5/19/2023 0:00,shipped
+108,95,mouse,1,unknown,7/16/2023 0:00,cancelled
+109,169,chair,2,300,,pending
+110,60,chair,1,unknown,,
+111,265,keyboard,4,200,12/7/2023 0:00,
+112,164,desk,4,200,1/22/2024 0:00,pending
+113,195,CHAIR,1,,,pending
+114,22,mouse,5,400,,
+115,264,keyboard,3,300,,
+116,170,desk,5,500,4/4/2023 0:00,pending
+117,261,,,200,,shipped
+118,252,chair,4,unknown,,
+,210,mouse,,100,12/19/2023 0:00,cancelled
+120,166,laptop,,100,7/30/2023 0:00,cancelled
+121,265,chair,5,500,10/17/2023 0:00,
+122,240,desk,2,100,,
+123,298,keyboard,,500,10/2/2023 0:00,pending
+124,262,,1,unknown,,shipped
+125,228,laptop,4,500,,cancelled
+126,244,keyboard,1,300,12/9/2023 0:00,pending
+,263,,,400,,
+128,170,laptop,,,,shipped
+129,236,desk,2,,11/30/2023 0:00,shipped
+130,173,LAPTOP,2,200,,pending
+131,220,laptop,,,,
+132,28,mouse,4,unknown,,pending
+133,51,laptop,,100,,
+134,8,desk,4,500,,pending
+135,229,DESK,2,200,,
+136,77,laptop,5,,,
+137,104,keyboard,5,100,,cancelled
+138,287,laptop,,300,,cancelled
+139,32,chair,,300,1/3/2023 0:00,
+140,232,desk,,200,7/11/2023 0:00,
+141,296,mouse,5,400,9/19/2023 0:00,pending
+142,57,desk,3,,10/10/2023 0:00,cancelled
+143,209,chair,2,100,,pending
+144,265,mouse,1,500,12/9/2023 0:00,
+145,64,chair,3,500,7/4/2023 0:00,
+146,204,mouse,5,,4/27/2023 0:00,shipped
+147,218,chair,5,100,2/7/2023 0:00,
+148,287,chair,1,unknown,,cancelled
+149,300,mouse,3,200,8/17/2023 0:00,cancelled
+150,20,keyboard,,400,,pending
+151,256,keyboard,5,,,
+152,128,desk,5,,1/27/2023 0:00,shipped
+153,186,keyboard,3,200,1/25/2023 0:00,cancelled
+154,291,laptop,,100,,
+155,43,mouse,3,100,1/8/2024 0:00,shipped
+156,196,desk,2,500,,
+157,228,keyboard,5,100,,shipped
+158,154,desk,,,,cancelled
+159,119,chair,4,,8/9/2023 0:00,shipped
+160,231,mouse ,2,500,,pending
+161,180,desk,1,100,,cancelled
+162,142,desk,5,100,,shipped
+163,123,desk,3,100,2/23/2023 0:00,pending
+164,24,desk,2,500,,
+165,119,mouse,4,unknown,,shipped
+166,17,,4,,1/27/2023 0:00,cancelled
+167,190,keyboard,1,200,,
+168,65,,2,100,,shipped
+169,113,,4,200,,cancelled
+170,103,desk ,,400,,
+171,284,chair,1,,,pending
+172,271,,,unknown,4/8/2023 0:00,
+173,113,chair,2,,8/8/2023 0:00,cancelled
+174,18,desk,3,500,11/3/2023 0:00,
+175,126,chair,,500,,pending
+176,120,mouse,5,200,,
+177,51,laptop,,300,11/8/2023 0:00,pending
+178,111,laptop,4,400,2/1/2024 0:00,pending
+179,170,mouse,2,300,,
+180,55,keyboard,4,300,1/11/2024 0:00,shipped
+181,247,chair,1,500,8/19/2023 0:00,cancelled
+182,56,,1,300,,cancelled
+183,80,,5,400,,shipped
+184,152,mouse,1,500,,shipped
+185,6,mouse,,300,,cancelled
+186,256,desk,,200,,shipped
+187,66,laptop,1,200,8/14/2023 0:00,cancelled
+188,254,keyboard ,,unknown,,pending
+189,193,,1,400,9/2/2023 0:00,pending
+190,126,,,,,pending
+191,144,keyboard,2,400,1/15/2024 0:00,pending
+192,264,mouse,2,500,6/8/2023 0:00,cancelled
+193,170,laptop,1,200,,cancelled
+194,247,,4,500,,
+195,197,mouse,3,,1/8/2024 0:00,shipped
+196,254,chair,4,300,,shipped
+197,199,mouse,3,,,pending
+198,207,mouse ,5,200,,pending
+199,103,,1,400,12/20/2023 0:00,cancelled
+200,54,desk,2,500,,pending
+201,124,desk ,1,300,,
+202,126,keyboard,1,400,,pending
+203,149,desk,,100,,
+204,55,laptop,,100,8/8/2023 0:00,pending
+205,187,chair,5,200,,
+206,289,keyboard,2,200,,cancelled
+207,192,chair,5,,,pending
+208,140,chair,,unknown,4/11/2023 0:00,pending
+209,69,chair,4,300,,
+210,16,laptop,,unknown,2/13/2023 0:00,
+211,229,chair,2,400,,
+212,196,keyboard,5,200,,cancelled
+213,116,laptop,,,,cancelled
+214,213,chair,1,500,,shipped
+215,269,mouse,1,100,,cancelled
+216,217,laptop,3,500,1/8/2023 0:00,
+217,138,,4,400,,cancelled
+218,270,keyboard,3,300,8/13/2023 0:00,cancelled
+219,102,chair,1,500,8/3/2023 0:00,
+220,174,laptop,1,500,,
+221,271,keyboard,5,500,,
+,25,keyboard,3,,,pending
+223,101,mouse,,unknown,,cancelled
+224,71,laptop,3,200,1/12/2023 0:00,cancelled
+225,287,chair,,,9/23/2023 0:00,cancelled
+226,254,mouse,,100,,pending
+227,136,keyboard,,200,,
+228,192,mouse,3,100,8/30/2023 0:00,shipped
+229,85,chair ,1,100,,
+230,141,keyboard,,,,
+231,197,laptop,,400,,cancelled
+,119,mouse,3,100,,pending
+233,126,laptop ,,300,,cancelled
+,187,chair,,unknown,,cancelled
+235,83,,1,unknown,8/30/2023 0:00,
+236,1,keyboard,2,400,,shipped
+237,96,keyboard,,200,,shipped
+238,108,mouse,3,400,9/19/2023 0:00,pending
+239,286,LAPTOP,5,100,,pending
+240,63,mouse,3,,,cancelled
+241,186,chair,,100,,pending
+242,78,mouse,5,300,3/9/2023 0:00,pending
+243,50,desk,2,,,shipped
+244,109,chair,4,300,,
+245,255,mouse,1,400,8/29/2023 0:00,
+246,244,mouse,4,,7/10/2023 0:00,pending
+247,234,desk,2,unknown,7/28/2023 0:00,pending
+248,287,desk,,,,
+249,50,laptop,,400,9/1/2023 0:00,cancelled
+250,163,laptop,,400,,pending
+251,125,desk,,200,,shipped
+252,144,chair,3,,3/15/2023 0:00,pending
+253,36,desk,3,,,pending
+254,60,mouse,2,100,,shipped
+255,16,,,unknown,,
+256,154,desk,2,200,,
+257,38,,,500,12/11/2023 0:00,cancelled
+258,79,laptop,3,100,,shipped
+259,68,keyboard,1,unknown,,pending
+260,222,chair,5,500,10/11/2023 0:00,pending
+261,155,keyboard,2,400,8/21/2023 0:00,pending
+262,216,mouse,,200,12/3/2023 0:00,
+263,220,,5,unknown,8/24/2023 0:00,shipped
+264,25,desk,3,unknown,8/24/2023 0:00,
+265,222,keyboard,5,100,1/6/2024 0:00,shipped
+266,119,chair,3,,,pending
+267,211,desk,4,100,,cancelled
+,48,,4,,,
+269,9,keyboard,,300,8/8/2023 0:00,
+270,59,mouse,,300,,shipped
+271,55,desk,2,200,,cancelled
+,164,desk,5,300,5/2/2023 0:00,
+273,74,mouse ,3,500,8/22/2023 0:00,shipped
+274,197,mouse,1,200,,cancelled
+275,55,,4,,5/23/2023 0:00,shipped
+276,82,keyboard,,200,11/4/2023 0:00,shipped
+277,114,laptop,,unknown,,
+278,248,laptop,,200,,
+279,232,keyboard ,5,300,,cancelled
+280,127,desk,,500,,shipped
+281,94,keyboard,4,500,6/28/2023 0:00,cancelled
+282,130,chair,,200,,shipped
+283,32,laptop,,300,6/28/2023 0:00,pending
+284,90,,4,unknown,,
+285,177,keyboard,1,unknown,11/10/2023 0:00,pending
+286,155,laptop,5,300,,cancelled
+,111,mouse,,,,pending
+288,178,mouse,,unknown,,
+289,177,keyboard,4,400,,pending
+290,282,laptop,,400,,cancelled
+291,222,chair,2,,,
+,147,keyboard,5,,,pending
+293,35,keyboard,,400,1/18/2023 0:00,
+294,115,chair,1,unknown,6/11/2023 0:00,cancelled
+295,32,chair,1,300,,pending
+296,272,keyboard,1,500,,pending
+297,247,,3,300,,
+298,47,mouse,2,,,cancelled
+299,181,laptop,3,500,3/17/2023 0:00,cancelled
+300,278,laptop,3,100,1/6/2024 0:00,
+301,87,chair,,100,,cancelled
+302,118,mouse,,200,,pending
+303,122,,,400,,pending
+304,193,,1,200,1/5/2023 0:00,shipped
+305,127,chair,5,unknown,,
+306,223,keyboard,5,100,9/13/2023 0:00,shipped
+307,125,keyboard,,unknown,,shipped
+308,111,mouse,3,400,9/14/2023 0:00,
+309,183,mouse,2,100,3/15/2023 0:00,pending
+310,242,chair,5,500,,
+311,75,laptop ,,200,,shipped
+312,93,chair,,400,,shipped
+313,186,laptop,2,,,shipped
+314,293,mouse,4,500,1/16/2024 0:00,cancelled
+315,261,mouse,2,300,,shipped
+316,274,laptop,3,400,,shipped
+317,72,mouse ,2,,,
+318,174,desk,,400,,cancelled
+319,206,laptop,1,,,pending
+,35,chair ,5,,,
+321,161,keyboard,4,500,,shipped
+322,30,mouse,4,300,5/4/2023 0:00,pending
+323,285,laptop ,5,500,,pending
+324,295,LAPTOP,2,200,,cancelled
+325,34,desk,,unknown,,pending
+326,243,,1,200,,cancelled
+327,63,keyboard,5,100,,
+328,253,desk,1,300,,cancelled
+329,125,keyboard ,3,200,,
+330,110,mouse,1,,11/15/2023 0:00,pending
+331,240,,,200,5/5/2023 0:00,pending
+332,241,desk,3,200,,cancelled
+,176,laptop ,4,500,8/7/2023 0:00,
+334,192,,2,500,,cancelled
+335,10,keyboard,1,300,,shipped
+336,67,chair ,,,,
+337,128,chair,4,100,,
+338,293,laptop,,,,
+339,289,desk,,500,,
+340,115,keyboard,5,100,,shipped
+341,115,mouse,,,,cancelled
+342,37,keyboard,2,500,,cancelled
+343,47,MOUSE,,100,,cancelled
+344,180,chair,5,200,,pending
+345,228,keyboard,3,200,,cancelled
+346,24,mouse,2,200,,pending
+,187,,1,,,shipped
+348,163,chair,2,100,,shipped
+349,124,,3,,,
+350,106,laptop,,100,,cancelled
+351,98,desk,,300,,cancelled
+352,47,chair,,200,,shipped
+353,228,chair,3,400,8/26/2023 0:00,cancelled
+354,82,laptop,5,100,,pending
+355,283,chair,4,100,,shipped
+356,2,laptop,3,300,5/25/2023 0:00,
+357,62,chair,5,unknown,,pending
+358,206,,5,unknown,,cancelled
+359,182,mouse,4,300,,pending
+360,217,desk,1,,,pending
+361,284,desk,,100,11/25/2023 0:00,
+362,10,desk,2,300,,pending
+363,27,DESK,4,400,,
+364,92,chair,5,200,1/2/2023 0:00,
+365,154,desk,,200,,pending
+366,112,mouse ,5,400,3/12/2023 0:00,pending
+367,228,laptop,3,unknown,,
+368,31,,1,200,2/7/2023 0:00,shipped
+369,85,desk,5,200,,
+370,77,keyboard,,,,cancelled
+371,141,CHAIR,,100,2/5/2023 0:00,cancelled
+,108,laptop,5,unknown,9/7/2023 0:00,
+373,156,laptop,4,500,,pending
+374,263,chair ,,300,6/23/2023 0:00,pending
+375,242,laptop,,400,,cancelled
+376,138,,2,200,,
+377,198,laptop,1,400,,
+378,155,mouse,,400,2/7/2023 0:00,cancelled
+379,121,keyboard,,,12/18/2023 0:00,
+380,133,keyboard,,100,,pending
+381,72,laptop,2,,9/8/2023 0:00,cancelled
+382,298,chair,1,100,,
+383,87,keyboard,5,400,,cancelled
+384,188,keyboard,2,,4/30/2023 0:00,shipped
+,250,desk,5,200,,pending
+386,146,,5,200,,
+387,282,keyboard,3,400,,
+388,136,chair,1,,1/1/2024 0:00,cancelled
+389,171,laptop,5,unknown,,cancelled
+390,218,desk,5,unknown,,
+391,292,mouse,,,,pending
+392,98,desk,3,500,9/18/2023 0:00,shipped
+393,207,,4,500,,cancelled
+394,292,chair,1,400,,
+395,31,mouse,2,300,,
+396,127,chair,,100,1/28/2024 0:00,cancelled
+397,8,mouse,1,,,pending
+398,231,chair,,unknown,4/17/2023 0:00,shipped
+,32,,5,500,,pending
+,143,laptop,5,500,,pending
+401,13,keyboard,5,100,,pending
+402,286,,,500,,shipped
+403,104,,3,200,,cancelled
+404,90,keyboard,,300,,pending
+405,120,laptop,1,400,,shipped
+406,13,mouse,3,300,,shipped
+407,272,keyboard ,4,,8/18/2023 0:00,pending
+408,75,desk,1,,,
+409,232,,2,,10/24/2023 0:00,shipped
+410,239,DESK,2,400,,shipped
+411,93,mouse,3,200,,pending
+412,94,chair,,500,8/28/2023 0:00,pending
+413,27,keyboard,5,400,,pending
+414,201,,2,unknown,,
+415,60,desk,3,500,6/20/2023 0:00,
+416,257,chair,,200,,cancelled
+417,96,desk,1,400,12/1/2023 0:00,shipped
+418,260,keyboard,,500,12/19/2023 0:00,cancelled
+419,83,desk ,3,unknown,4/12/2023 0:00,pending
+420,9,mouse,1,200,11/29/2023 0:00,
+421,67,desk,1,unknown,,
+422,299,DESK,1,unknown,,shipped
+423,281,mouse,4,unknown,2/4/2024 0:00,cancelled
+424,204,keyboard,1,100,,cancelled
+425,224,desk,2,400,,pending
+426,110,chair,3,unknown,,cancelled
+427,146,desk,5,300,,pending
+428,297,mouse ,4,100,,shipped
+429,28,mouse,1,200,,cancelled
+430,101,keyboard,1,,,shipped
+431,167,chair ,,,6/17/2023 0:00,
+432,10,chair,1,400,,pending
+433,67,,,400,,cancelled
+434,155,laptop,3,,,cancelled
+435,257,KEYBOARD,,unknown,6/18/2023 0:00,
+,288,chair,3,100,,pending
+437,253,chair,4,300,7/27/2023 0:00,shipped
+438,119,mouse,5,unknown,4/24/2023 0:00,cancelled
+439,240,laptop,2,unknown,,cancelled
+440,205,laptop,2,300,,pending
+441,274,chair,5,400,8/29/2023 0:00,
+442,222,keyboard ,1,500,,shipped
+443,117,desk,1,,,pending
+444,227,chair,5,unknown,,
+445,266,,2,100,,pending
+446,276,KEYBOARD,5,200,,pending
+447,104,chair,5,,,pending
+448,160,chair,,200,,
+449,7,mouse,1,200,1/8/2024 0:00,shipped
+450,238,desk,4,500,,shipped
+451,258,desk,,100,,pending
+452,245,,,500,,
+453,26,,,400,2/8/2023 0:00,
+454,74,,2,unknown,,shipped
+455,206,chair,2,,,pending
+456,11,desk,1,500,5/12/2023 0:00,shipped
+457,121,desk,4,200,,
+458,136,laptop,,200,9/30/2023 0:00,cancelled
+459,16,keyboard,4,300,,pending
+460,33,desk,,200,,cancelled
+461,36,desk,4,200,,cancelled
+462,155,laptop,4,100,,shipped
+463,221,,2,,,pending
+464,214,keyboard,3,400,,shipped
+465,91,mouse,1,unknown,,shipped
+466,42,,3,,10/13/2023 0:00,
+467,43,desk,3,400,,pending
+468,177,chair,3,unknown,,cancelled
+469,280,laptop,2,300,3/27/2023 0:00,shipped
+470,105,desk,,500,4/27/2023 0:00,pending
+471,53,chair,3,400,10/12/2023 0:00,cancelled
+472,4,chair ,3,,12/29/2023 0:00,pending
+473,230,laptop,,unknown,,cancelled
+474,250,desk,2,,9/30/2023 0:00,shipped
+475,154,laptop,2,400,,cancelled
+476,122,mouse,2,unknown,,
+477,225,laptop,4,400,,shipped
+478,41,desk,1,500,,cancelled
+479,196,,,500,12/11/2023 0:00,cancelled
+480,202,mouse,3,,,shipped
+481,158,desk,,,,shipped
+482,154,,3,300,,cancelled
+483,168,,,400,1/14/2024 0:00,
+484,213,desk,2,unknown,3/31/2023 0:00,cancelled
+485,92,desk,,400,,cancelled
+486,285,desk,3,,,cancelled
+487,134,mouse,4,500,,pending
+488,116,,3,200,,cancelled
+489,28,chair,,100,,pending
+490,257,laptop ,4,300,,shipped
+,159,keyboard,,300,9/21/2023 0:00,shipped
+492,38,mouse,5,400,,cancelled
+493,78,laptop,,unknown,,shipped
+494,263,mouse,,400,,cancelled
+495,261,desk,5,400,,pending
+496,53,mouse,1,200,12/7/2023 0:00,pending
+497,20,chair,,200,9/5/2023 0:00,
+498,198,keyboard,5,,5/11/2023 0:00,
+499,231,keyboard,3,100,,cancelled
+500,1,desk,,,,cancelled
+501,103,laptop,,100,,pending
+502,277,keyboard,5,100,,shipped
+503,146,desk,4,100,1/29/2023 0:00,pending
+504,85,keyboard,3,,,pending
+505,13,LAPTOP,,200,,shipped
+506,172,chair,4,300,,shipped
+507,97,chair,,100,6/23/2023 0:00,shipped
+508,219,mouse,2,100,4/28/2023 0:00,pending
+509,153,mouse ,,400,6/18/2023 0:00,shipped
+510,14,laptop,4,400,,shipped
+511,260,,3,500,7/15/2023 0:00,shipped
+512,272,desk,1,unknown,10/23/2023 0:00,shipped
+513,92,desk ,1,400,5/16/2023 0:00,
+514,13,desk,5,500,,cancelled
+515,91,keyboard,4,200,,pending
+516,187,mouse,,unknown,,
+517,239,mouse,,200,,pending
+518,48,,2,unknown,,cancelled
+519,10,,3,200,1/23/2023 0:00,pending
+520,255,desk,2,500,,pending
+,23,laptop,,100,,
+522,227,laptop,,,4/14/2023 0:00,pending
+523,43,laptop,4,,,cancelled
+524,247,mouse ,,400,11/6/2023 0:00,
+525,90,laptop,3,500,,cancelled
+526,236,mouse,,,,cancelled
+527,15,desk ,5,100,,pending
+528,58,chair,,300,,cancelled
+529,165,,3,500,12/11/2023 0:00,cancelled
+530,131,chair,,500,,cancelled
+531,151,,,200,,shipped
+532,287,,1,unknown,,pending
+533,8,,5,500,,
+534,34,chair,2,300,,shipped
+535,124,mouse,,,1/16/2023 0:00,
+536,265,keyboard,,400,6/13/2023 0:00,pending
+537,159,laptop,3,300,,
+538,150,laptop,3,500,,cancelled
+,75,keyboard ,,300,,pending
+540,181,,2,500,1/9/2024 0:00,cancelled
+541,139,,2,unknown,8/19/2023 0:00,shipped
+542,222,desk ,2,400,,cancelled
+543,200,mouse,2,400,,cancelled
+544,22,mouse,3,500,,pending
+545,30,KEYBOARD,5,100,,
+546,258,mouse,5,300,,
+547,87,desk,,unknown,5/8/2023 0:00,cancelled
+548,218,keyboard,1,unknown,,
+549,175,keyboard ,5,100,,cancelled
+550,159,chair,4,,,
+551,193,desk,5,500,,shipped
+552,252,laptop,,unknown,,shipped
+553,51,desk,,,,shipped
+554,74,,4,,,shipped
+555,159,mouse,2,400,11/26/2023 0:00,shipped
+556,209,laptop ,3,200,,pending
+557,80,chair,,200,,cancelled
+558,188,,1,unknown,,cancelled
+559,266,keyboard,2,300,3/29/2023 0:00,cancelled
+560,138,mouse,3,100,,cancelled
+561,101,keyboard,4,100,,pending
+562,5,laptop,,200,,pending
+563,104,chair,2,unknown,,cancelled
+564,99,keyboard ,,300,,pending
+565,213,laptop,4,100,,
+566,114,keyboard,3,500,,
+567,152,desk,5,500,3/13/2023 0:00,pending
+568,246,laptop,,100,,
+569,179,keyboard,2,,,
+570,41,keyboard,,unknown,,cancelled
+571,80,,2,500,,cancelled
+572,293,keyboard,,,,cancelled
+573,193,desk,,200,7/4/2023 0:00,
+574,210,mouse,2,400,1/14/2023 0:00,
+575,175,mouse,,500,10/22/2023 0:00,pending
+576,9,laptop,,500,,cancelled
+577,153,laptop ,,unknown,,cancelled
+578,136,keyboard,1,,4/19/2023 0:00,pending
+579,256,desk,,500,7/26/2023 0:00,pending
+580,234,desk ,3,100,10/18/2023 0:00,pending
+581,254,laptop,,100,10/5/2023 0:00,pending
+582,4,keyboard,3,,,
+583,163,mouse,,unknown,,shipped
+584,268,laptop,2,,3/2/2023 0:00,
+585,180,keyboard,5,500,,pending
+586,154,desk,,500,,pending
+587,189,chair,,400,,cancelled
+588,30,laptop,5,300,,cancelled
+,257,desk,,,,
+590,79,mouse,,,11/30/2023 0:00,pending
+591,249,LAPTOP,2,500,,
+592,59,mouse,1,100,,pending
+593,23,keyboard,3,,,pending
+594,156,desk ,3,300,,
+595,258,laptop ,3,500,,pending
+596,76,laptop,2,200,7/5/2023 0:00,pending
+597,238,mouse,5,unknown,,shipped
+598,102,keyboard,4,,2/16/2023 0:00,
+599,144,mouse,1,unknown,,pending
+600,144,keyboard,5,,9/13/2023 0:00,
+601,210,mouse,3,unknown,5/3/2023 0:00,pending
+602,24,chair,1,500,,cancelled
+603,62,,2,500,1/11/2024 0:00,pending
+604,216,keyboard ,2,300,,shipped
+605,50,keyboard,1,400,6/5/2023 0:00,pending
+606,102,,,unknown,6/8/2023 0:00,
+607,83,,2,300,,pending
+608,109,mouse,5,unknown,2/4/2023 0:00,
+609,189,laptop,,100,1/3/2024 0:00,
+,83,chair,2,500,,cancelled
+611,1,mouse,2,300,,pending
+612,2,mouse,1,unknown,12/17/2023 0:00,pending
+613,5,laptop,3,300,,pending
+614,131,chair,2,,4/6/2023 0:00,shipped
+615,240,laptop,3,,8/15/2023 0:00,
+616,2,chair,4,300,,
+617,141,,,100,,
+618,154,chair,2,200,10/19/2023 0:00,shipped
+,171,chair,2,300,8/30/2023 0:00,cancelled
+,291,laptop,3,300,7/10/2023 0:00,shipped
+621,33,desk,1,,,shipped
+622,244,laptop,3,400,,shipped
+,299,keyboard,4,unknown,,pending
+624,145,laptop,5,100,,cancelled
+,94,laptop,3,100,,shipped
+626,70,mouse,4,300,,
+627,136,chair,,400,2/17/2023 0:00,shipped
+628,34,keyboard,5,200,,cancelled
+629,65,keyboard ,,100,,
+630,246,mouse,2,100,,cancelled
+631,191,keyboard,1,200,,
+632,175,desk,1,unknown,,shipped
+633,98,mouse,4,400,,cancelled
+634,151,mouse,1,200,2/16/2023 0:00,pending
+635,50,mouse,3,100,,pending
+636,221,desk,1,500,7/31/2023 0:00,cancelled
+,116,,2,unknown,,pending
+638,215,keyboard,5,,,
+639,228,laptop,,300,4/30/2023 0:00,shipped
+640,255,desk,5,400,,
+641,49,desk,,,12/15/2023 0:00,pending
+642,279,keyboard,4,300,,
+,54,mouse,,200,5/11/2023 0:00,cancelled
+644,82,laptop,4,300,,pending
+645,297,chair ,,200,,shipped
+646,38,keyboard,1,unknown,,cancelled
+647,12,laptop,3,100,,pending
+648,62,mouse,,100,,cancelled
+649,98,keyboard,,100,,
+650,141,chair,4,500,4/21/2023 0:00,pending
+651,261,keyboard,4,300,5/27/2023 0:00,pending
+652,211,,1,500,6/10/2023 0:00,shipped
+653,147,chair ,4,,,
+654,100,laptop,,300,,pending
+655,187,,4,unknown,,cancelled
+656,100,keyboard,4,200,,pending
+657,212,desk,,100,,pending
+658,6,keyboard ,1,100,3/18/2023 0:00,shipped
+659,42,keyboard,3,unknown,,shipped
+660,242,chair,1,200,,cancelled
+661,193,keyboard,,unknown,10/26/2023 0:00,shipped
+662,244,desk,2,,,
+663,297,desk,5,,11/10/2023 0:00,pending
+664,279,laptop,1,,9/18/2023 0:00,shipped
+665,134,laptop,,400,,
+666,36,desk ,5,unknown,,shipped
+667,130,chair,5,unknown,,cancelled
+668,276,chair,5,100,,shipped
+669,152,laptop,1,unknown,10/9/2023 0:00,pending
+670,146,chair,5,100,,cancelled
+671,76,keyboard,2,unknown,3/29/2023 0:00,
+672,278,desk,5,200,,pending
+673,9,laptop,5,300,7/19/2023 0:00,pending
+674,168,mouse,5,200,,
+675,183,chair ,1,400,2/15/2023 0:00,pending
+676,131,chair ,3,300,9/2/2023 0:00,cancelled
+677,212,chair,3,unknown,,pending
+678,227,laptop,,200,,pending
+679,27,desk,2,500,,shipped
+680,245,desk,,200,,cancelled
+681,205,mouse ,,100,,
+682,282,mouse,1,200,12/23/2023 0:00,shipped
+683,234,,2,unknown,,pending
+684,10,mouse,2,400,,shipped
+685,68,desk,2,400,,cancelled
+686,125,keyboard,,400,,cancelled
+687,138,laptop,3,unknown,,shipped
+688,172,laptop,,400,,shipped
+689,242,desk,2,unknown,,pending
+690,13,laptop ,4,400,10/6/2023 0:00,pending
+691,280,chair,,400,,cancelled
+692,203,desk,2,100,,shipped
+693,245,desk,,100,,shipped
+694,208,chair,,300,6/27/2023 0:00,pending
+695,102,chair,,unknown,11/28/2023 0:00,cancelled
+696,230,chair,,200,9/17/2023 0:00,shipped
+697,66,laptop,4,,,shipped
+698,42,desk,1,300,,
+699,8,,2,500,2/12/2023 0:00,cancelled
+700,23,desk,1,300,,shipped
+701,165,chair,3,300,,pending
+702,192,chair ,2,500,1/21/2024 0:00,pending
+703,43,mouse,,unknown,11/1/2023 0:00,cancelled
+704,36,chair,,400,,pending
+705,220,desk,,100,,cancelled
+706,48,laptop,,400,1/15/2024 0:00,
+707,154,,4,200,5/26/2023 0:00,pending
+708,46,laptop,3,500,,cancelled
+709,55,laptop,4,400,,cancelled
+710,272,laptop,3,500,,pending
+711,4,CHAIR,5,200,,shipped
+712,163,chair,1,400,5/7/2023 0:00,
+,289,laptop,2,100,,shipped
+714,40,mouse,1,unknown,,shipped
+715,254,keyboard,1,100,4/20/2023 0:00,pending
+716,111,desk,3,,7/6/2023 0:00,cancelled
+717,9,mouse,5,200,,cancelled
+718,137,keyboard,3,400,,shipped
+719,237,keyboard ,1,,,
+720,89,desk ,5,200,,
+721,180,keyboard ,4,200,4/28/2023 0:00,cancelled
+722,245,laptop ,3,300,,pending
+723,153,keyboard,3,unknown,,shipped
+724,38,laptop,2,,,shipped
+725,298,desk ,,100,,shipped
+,253,laptop,,,,cancelled
+727,155,keyboard,5,300,,
+728,290,laptop,1,100,1/27/2023 0:00,cancelled
+729,145,mouse,2,300,10/2/2023 0:00,cancelled
+730,4,mouse,,500,,pending
+,153,chair,3,400,2/26/2023 0:00,
+732,284,laptop,,200,,cancelled
+733,140,mouse,,400,,cancelled
+734,233,desk,1,unknown,,pending
+735,69,chair,,200,4/29/2023 0:00,
+736,119,laptop,1,100,,pending
+737,60,desk,5,300,,pending
+738,243,laptop,3,200,,shipped
+739,105,mouse ,2,200,,cancelled
+740,16,chair,2,500,1/21/2024 0:00,
+741,81,keyboard,2,200,9/1/2023 0:00,shipped
+742,250,keyboard,3,400,3/19/2023 0:00,pending
+743,8,,5,100,,
+744,171,,2,,10/19/2023 0:00,pending
+745,210,keyboard,5,400,,cancelled
+746,67,laptop,5,100,,cancelled
+747,90,,5,,,
+748,240,chair,4,unknown,,shipped
+749,126,chair,1,unknown,2/24/2023 0:00,shipped
+750,270,chair,5,500,,shipped
+751,293,chair,5,unknown,,shipped
+752,55,chair,3,400,7/30/2023 0:00,pending
+753,96,,2,100,8/26/2023 0:00,shipped
+754,7,desk,1,unknown,,pending
+755,18,keyboard,,300,,cancelled
+756,141,laptop,,200,,shipped
+757,191,,3,unknown,,cancelled
+758,137,keyboard ,,500,,pending
+759,268,laptop,5,400,7/3/2023 0:00,
+760,299,mouse,5,200,7/2/2023 0:00,
+761,187,,1,300,,pending
+762,198,mouse,1,300,2/24/2023 0:00,shipped
+763,92,desk,,400,3/19/2023 0:00,shipped
+764,128,mouse,,300,,cancelled
+765,189,chair,,300,,pending
+766,95,laptop ,,300,,pending
+767,160,keyboard ,2,unknown,8/22/2023 0:00,cancelled
+768,164,,,200,,
+769,173,keyboard,1,,,pending
+770,117,mouse,4,400,,cancelled
+771,286,chair,2,400,,
+772,95,mouse,,400,,
+773,276,keyboard,4,400,,
+774,57,laptop,3,300,,cancelled
+775,174,CHAIR,,400,8/28/2023 0:00,cancelled
+776,136,mouse,,200,,
+777,243,,5,unknown,,pending
+778,272,MOUSE,5,300,,
+,134,laptop,4,,,cancelled
+780,73,chair,,100,,shipped
+781,266,laptop ,2,300,,shipped
+782,24,chair ,2,400,4/21/2023 0:00,
+783,91,desk,3,,,pending
+784,273,laptop,5,300,,cancelled
+,149,desk,4,400,7/2/2023 0:00,pending
+786,188,laptop,4,unknown,,cancelled
+787,31,chair,,200,,pending
+788,148,,1,200,,
+789,160,laptop,4,unknown,,pending
+790,91,keyboard,4,400,,
+791,49,,,,5/5/2023 0:00,pending
+792,90,desk,3,500,,cancelled
+793,138,chair,4,unknown,,shipped
+794,180,laptop,5,,,pending
+795,78,keyboard,2,unknown,4/24/2023 0:00,cancelled
+796,53,mouse,3,,6/13/2023 0:00,pending
+797,169,desk,4,100,8/14/2023 0:00,
+798,269,desk,,200,,
+799,284,mouse,,300,10/12/2023 0:00,shipped
+800,282,,,,,pending
+801,182,desk,4,500,8/19/2023 0:00,pending
+802,149,laptop,3,unknown,,
+803,258,mouse,3,,,cancelled
+804,94,keyboard,,300,,cancelled
+805,143,mouse,1,unknown,6/24/2023 0:00,
+806,264,laptop ,1,100,10/24/2023 0:00,cancelled
+807,58,,4,500,,
+808,99,laptop,3,,,shipped
+809,19,chair,3,200,,pending
+810,259,chair,4,300,,shipped
+811,162,,4,unknown,,
+812,93,chair,4,500,,pending
+,77,desk,3,unknown,1/16/2024 0:00,cancelled
+814,196,chair,,100,,pending
+815,171,KEYBOARD,1,,,shipped
+816,235,keyboard,3,100,,pending
+817,173,MOUSE,4,100,,pending
+818,26,KEYBOARD,,300,7/21/2023 0:00,cancelled
+819,103,chair,4,100,,
+820,194,mouse,1,100,2/17/2023 0:00,shipped
+821,13,desk,5,200,,
+822,97,chair,2,500,,shipped
+823,158,chair,,,,shipped
+824,144,laptop,4,100,9/14/2023 0:00,pending
+825,224,chair,,400,,shipped
+826,179,keyboard,2,500,,
+827,61,chair,3,unknown,,cancelled
+828,267,mouse,4,200,1/16/2024 0:00,
+829,156,keyboard,1,400,,
+830,267,mouse,4,100,,
+831,108,laptop,1,300,12/25/2023 0:00,pending
+832,165,chair,4,400,1/8/2024 0:00,
+833,234,,5,,,shipped
+834,51,laptop,5,500,,
+835,122,laptop,1,200,,
+836,161,laptop,1,,,pending
+837,9,desk,,,,
+838,14,keyboard,5,,,shipped
+839,25,mouse,2,200,3/21/2023 0:00,cancelled
+840,288,mouse,4,100,12/13/2023 0:00,
+841,232,mouse,2,,3/3/2023 0:00,cancelled
+842,120,mouse,4,500,,shipped
+843,158,desk,5,300,,cancelled
+844,229,desk ,2,,,shipped
+845,116,laptop,2,,,shipped
+846,285,desk,,,7/23/2023 0:00,cancelled
+847,192,laptop,5,100,,cancelled
+848,263,MOUSE,3,400,12/26/2023 0:00,pending
+849,87,,3,500,,shipped
+850,125,desk,,200,2/10/2023 0:00,shipped
+851,181,,5,300,8/5/2023 0:00,shipped
+852,69,,2,300,,
+853,103,desk,4,500,7/21/2023 0:00,cancelled
+854,50,mouse,,300,4/5/2023 0:00,shipped
+855,206,laptop,2,unknown,,cancelled
+856,49,desk,5,300,,cancelled
+857,287,MOUSE,,400,6/3/2023 0:00,
+858,89,laptop,4,,,shipped
+859,31,laptop,3,unknown,,cancelled
+860,80,desk,2,,,pending
+861,259,desk,,unknown,,
+862,88,mouse,1,unknown,4/9/2023 0:00,shipped
+863,45,chair,,,,cancelled
+864,107,keyboard,3,100,8/11/2023 0:00,cancelled
+865,167,laptop,,100,,shipped
+866,106,DESK,4,unknown,,shipped
+867,91,desk,5,unknown,11/19/2023 0:00,pending
+868,134,laptop,,,,
+869,94,keyboard,4,200,,cancelled
+870,67,desk ,2,300,,cancelled
+871,128,chair,5,500,3/5/2023 0:00,pending
+872,96,chair,,100,10/16/2023 0:00,cancelled
+873,291,chair,1,200,1/21/2023 0:00,shipped
+874,53,chair,,300,,shipped
+875,185,,,500,,pending
+876,218,keyboard,5,,,shipped
+877,5,desk,5,100,,cancelled
+878,263,keyboard,2,200,,pending
+879,37,laptop,,unknown,,
+880,221,mouse,,300,,cancelled
+881,232,desk,3,500,,pending
+882,95,chair,,500,9/27/2023 0:00,
+883,55,,1,400,,pending
+884,210,mouse,2,,,shipped
+885,250,laptop,1,400,,pending
+886,297,chair ,,100,10/25/2023 0:00,cancelled
+887,68,keyboard,4,500,3/26/2023 0:00,shipped
+888,155,laptop,4,400,,
+889,124,keyboard ,2,400,2/3/2023 0:00,cancelled
+890,292,desk,,500,10/20/2023 0:00,cancelled
+891,277,mouse ,4,300,,pending
+892,134,laptop,4,,1/2/2023 0:00,cancelled
+893,143,keyboard,2,,2/26/2023 0:00,cancelled
+894,59,mouse,4,,11/15/2023 0:00,cancelled
+895,159,mouse,5,unknown,12/7/2023 0:00,pending
+896,107,mouse,3,,,cancelled
+897,81,desk,5,400,1/2/2023 0:00,
+,7,laptop,2,100,,cancelled
+899,283,desk,4,unknown,,shipped
+900,53,desk,2,unknown,,pending
+,249,keyboard ,3,100,12/22/2023 0:00,
+902,198,laptop,2,400,9/12/2023 0:00,pending
+903,287,laptop,5,100,,shipped
+904,176,desk ,,,,shipped
+905,208,chair,,100,,
+906,206,laptop,,500,,cancelled
+907,61,chair,3,100,,shipped
+908,72,laptop,2,unknown,,
+909,178,keyboard,4,300,11/18/2023 0:00,
+910,72,keyboard,,300,,
+911,30,,,100,9/5/2023 0:00,cancelled
+912,138,keyboard,,200,,pending
+913,247,laptop,4,unknown,,
+,65,chair,2,200,,cancelled
+915,250,chair,4,300,,cancelled
+916,6,laptop,2,300,6/7/2023 0:00,pending
+917,165,chair ,4,200,,cancelled
+918,183,desk,1,200,,
+919,62,keyboard,1,100,,
+920,112,chair,5,400,,shipped
+921,130,laptop,5,unknown,,cancelled
+922,122,mouse,3,unknown,,pending
+,240,chair,,unknown,7/28/2023 0:00,shipped
+924,26,keyboard,1,300,,pending
+925,264,desk ,5,400,11/14/2023 0:00,pending
+926,52,keyboard,,500,,shipped
+927,253,laptop,,,,pending
+928,226,desk,5,500,,cancelled
+929,294,,1,unknown,1/27/2023 0:00,cancelled
+930,13,mouse,4,200,,pending
+931,277,MOUSE,,100,1/30/2024 0:00,shipped
+932,220,desk,5,,7/27/2023 0:00,shipped
+933,297,chair,1,200,,
+934,86,desk,4,100,4/6/2023 0:00,
+935,251,keyboard,4,100,7/1/2023 0:00,pending
+936,21,mouse,5,200,,
+937,212,keyboard,2,400,1/15/2024 0:00,shipped
+938,184,mouse,4,100,1/22/2024 0:00,
+939,56,laptop,4,400,,cancelled
+940,41,laptop,2,400,1/11/2023 0:00,cancelled
+941,82,desk,1,,9/16/2023 0:00,shipped
+942,102,laptop,2,500,9/14/2023 0:00,cancelled
+943,247,chair,4,,10/10/2023 0:00,
+944,202,mouse,2,500,11/19/2023 0:00,shipped
+945,127,chair ,1,400,1/25/2023 0:00,
+946,50,chair,3,500,,shipped
+947,283,desk,,500,2/5/2023 0:00,pending
+948,11,mouse,,,,pending
+949,159,mouse,5,,7/27/2023 0:00,pending
+950,76,keyboard,3,400,,shipped
+951,36,chair,,,,
+952,35,chair,3,unknown,,cancelled
+953,291,laptop,1,300,,
+954,92,mouse ,,200,11/19/2023 0:00,cancelled
+955,193,desk,5,200,,shipped
+956,298,mouse,4,400,,
+957,79,,4,,8/20/2023 0:00,
+958,18,laptop,4,,,pending
+959,119,laptop,2,unknown,,
+960,43,chair,,300,,shipped
+961,114,laptop,5,100,,
+962,46,mouse,2,300,11/1/2023 0:00,shipped
+,204,laptop,4,200,5/8/2023 0:00,shipped
+,215,chair,,300,,shipped
+965,129,mouse,4,500,9/24/2023 0:00,cancelled
+966,187,chair,5,,,shipped
+967,33,laptop,5,500,,shipped
+968,96,laptop,,,,cancelled
+969,91,,,,,cancelled
+970,63,keyboard ,3,500,6/17/2023 0:00,
+971,262,keyboard,1,400,,
+972,179,chair,3,,,
+973,9,,2,,5/4/2023 0:00,
+974,66,KEYBOARD,,300,,shipped
+975,224,mouse,1,,,
+976,153,keyboard,5,100,,pending
+977,137,desk,4,400,,
+978,243,chair,,200,1/24/2024 0:00,
+979,182,keyboard,3,100,,pending
+980,144,keyboard,2,100,,pending
+981,118,chair,1,unknown,,pending
+982,84,keyboard,2,200,12/27/2023 0:00,shipped
+983,63,chair ,2,500,,pending
+984,188,laptop,5,unknown,,shipped
+985,7,,5,400,7/26/2023 0:00,pending
+986,22,desk,4,unknown,,
+987,263,mouse,4,unknown,7/31/2023 0:00,pending
+988,126,chair,4,100,10/16/2023 0:00,
+989,124,keyboard,5,200,7/25/2023 0:00,shipped
+990,220,chair,,500,,cancelled
+991,253,laptop,5,,,cancelled
+992,16,keyboard,,500,,cancelled
+993,279,desk,5,300,,pending
+994,62,chair,1,,,cancelled
+995,162,chair,3,200,11/3/2023 0:00,
+996,175,laptop,1,200,12/12/2023 0:00,cancelled
+997,39,chair,1,500,,shipped
+998,167,keyboard,,500,,pending
+999,185,keyboard,,400,12/10/2023 0:00,shipped
+1000,251,laptop,,400,,
+1001,44,desk,1,400,2/12/2023 0:00,shipped
+1002,77,laptop,5,200,1/4/2023 0:00,shipped
+1003,71,,1,500,,shipped
+1004,74,laptop,1,200,,
+1005,56,laptop,,300,,pending
+1006,252,laptop,2,,,
+1007,29,chair,,500,12/6/2023 0:00,pending
+1008,208,laptop ,1,300,,
+1009,264,laptop,4,100,,
+1010,173,keyboard,,200,,
+1011,15,desk,,unknown,,cancelled
+1012,206,mouse,2,500,,shipped
+1013,127,,4,100,,pending
+1014,104,,2,unknown,,cancelled
+1015,61,laptop ,3,unknown,7/20/2023 0:00,
+1016,284,keyboard,,200,,cancelled
+1017,239,laptop,4,500,,cancelled
+1018,147,LAPTOP,2,,,
+1019,280,chair,1,500,6/9/2023 0:00,cancelled
+1020,55,chair,,400,12/17/2023 0:00,pending
+1021,99,mouse,2,500,,cancelled
+1022,148,keyboard,4,300,8/31/2023 0:00,shipped
+1023,105,desk,3,400,,cancelled
+1024,137,chair,2,unknown,,shipped
+1025,157,chair,1,,,shipped
+1026,51,,5,300,,
+1027,155,laptop,3,100,5/19/2023 0:00,shipped
+1028,49,,3,400,,pending
+,265,mouse ,2,200,,pending
+1030,160,,5,300,4/29/2023 0:00,cancelled
+1031,17,chair,,300,9/27/2023 0:00,
+1032,136,desk ,,unknown,,
+,147,laptop,4,100,,
+1034,87,mouse,,400,,pending
+1035,70,chair,2,200,9/30/2023 0:00,pending
+1036,27,keyboard,,100,,shipped
+1037,133,chair,1,100,10/22/2023 0:00,
+1038,287,laptop,5,100,9/23/2023 0:00,shipped
+1039,137,keyboard,2,,,
+1040,250,keyboard,,,10/10/2023 0:00,
+,80,laptop ,1,unknown,,
+1042,255,keyboard,,unknown,5/3/2023 0:00,
+1043,250,,3,400,,
+1044,274,chair,,200,,
+1045,69,laptop,2,500,,
+1046,153,desk,,unknown,,cancelled
+1047,87,,,400,2/1/2024 0:00,shipped
+1048,145,desk,1,500,10/5/2023 0:00,pending
+1049,57,,,300,,pending
+1050,42,mouse,4,unknown,4/4/2023 0:00,pending
+1051,158,keyboard ,4,100,,pending
+1052,78,chair,5,200,,pending
+1053,190,mouse,2,200,3/17/2023 0:00,pending
+1054,139,chair,,100,,pending
+1055,229,desk,,500,11/13/2023 0:00,pending
+1056,104,mouse,3,,,
+1057,248,keyboard,,400,,pending
+1058,2,MOUSE,4,300,,pending
+1059,91,chair,3,200,,
+1060,104,mouse,1,100,9/10/2023 0:00,cancelled
+1061,9,chair,5,unknown,,shipped
+1062,211,laptop,1,400,,pending
+1063,212,keyboard,4,,2/18/2023 0:00,pending
+1064,9,desk,1,,,
+1065,219,desk,,,,shipped
+1066,122,laptop,2,300,4/29/2023 0:00,pending
+1067,24,mouse,5,unknown,,pending
+1068,176,,5,300,10/26/2023 0:00,cancelled
+1069,36,laptop,1,500,,
+1070,155,desk,2,200,,shipped
+1071,266,mouse,2,100,,cancelled
+1072,47,chair,2,300,7/11/2023 0:00,
+1073,83,laptop,,unknown,,shipped
+1074,242,laptop,1,unknown,,
+1075,264,mouse,1,200,,shipped
+1076,253,keyboard,,,,shipped
+1077,236,mouse,2,200,,shipped
+1078,234,desk ,,unknown,,
+1079,290,MOUSE,,unknown,9/10/2023 0:00,shipped
+1080,77,keyboard,2,400,,
+1081,297,,1,,,shipped
+1082,131,mouse ,1,200,,cancelled
+1083,173,laptop,5,300,10/28/2023 0:00,
+1084,9,desk,,500,,
+1085,160,desk,4,,,
+1086,41,keyboard,5,100,,cancelled
+1087,295,desk,2,300,2/2/2024 0:00,shipped
+1088,285,laptop,,100,,
+1089,247,chair,,200,,
+1090,81,desk,2,300,,shipped
+1091,192,mouse,3,300,2/23/2023 0:00,pending
+1092,116,keyboard,2,300,,
+1093,100,keyboard,3,300,,
+1094,257,chair,1,200,,pending
+1095,141,desk,5,,,pending
+1096,250,,4,,,pending
+1097,281,keyboard,4,200,,pending
+1098,81,laptop,5,unknown,,pending
+1099,248,mouse,5,200,,cancelled
+1100,203,desk,3,unknown,,
+1101,217,mouse,5,500,,
+1102,42,laptop,4,,5/15/2023 0:00,
+1103,265,keyboard ,,,,shipped
+1104,194,laptop,5,unknown,,cancelled
+1105,53,,3,500,2/24/2023 0:00,pending
+1106,117,mouse,4,100,9/12/2023 0:00,cancelled
+1107,245,laptop,1,200,,shipped
+1108,143,mouse,3,unknown,,shipped
+1109,114,desk,2,100,,
+1110,55,laptop,2,unknown,,
+1111,158,mouse,5,500,,pending
+1112,104,keyboard,,unknown,12/11/2023 0:00,cancelled
+1113,264,chair ,1,unknown,,
+1114,90,mouse,2,100,,shipped
+1115,114,laptop,,500,,cancelled
+1116,208,laptop,4,,1/7/2023 0:00,cancelled
+1117,288,desk,5,500,,
+1118,10,desk,,unknown,,pending
+1119,259,desk ,,,,
+1120,291,,3,400,12/27/2023 0:00,
+1121,253,keyboard,,100,,shipped
+1122,39,chair ,2,unknown,,
+1123,230,mouse,2,200,,cancelled
+1124,294,desk,4,,,cancelled
+1125,45,chair,4,200,,
+1126,232,keyboard,1,400,11/22/2023 0:00,pending
+1127,171,,,,1/8/2023 0:00,shipped
+1128,209,,2,200,,
+1129,203,mouse,1,unknown,,pending
+1130,67,,4,400,9/21/2023 0:00,pending
+1131,167,chair,5,unknown,1/3/2024 0:00,
+1132,27,keyboard,3,300,6/1/2023 0:00,pending
+1133,39,desk,4,100,,pending
+1134,159,laptop,1,400,,cancelled
+1135,215,,,,12/31/2023 0:00,cancelled
+1136,182,keyboard ,,400,,cancelled
+1137,91,mouse,5,unknown,,cancelled
+1138,97,mouse,1,400,12/24/2023 0:00,pending
+1139,36,laptop,1,200,,pending
+1140,129,laptop,,300,,
+1141,213,desk,3,400,3/15/2023 0:00,pending
+1142,215,keyboard,5,500,,cancelled
+1143,50,keyboard,2,,,pending
+1144,91,mouse,5,200,8/19/2023 0:00,cancelled
+1145,6,keyboard,5,200,,pending
+1146,150,LAPTOP,,400,4/22/2023 0:00,cancelled
+1147,280,laptop ,,500,4/16/2023 0:00,shipped
+1148,143,keyboard,3,,,
+1149,23,desk,2,,,
+1150,136,laptop,3,unknown,,shipped
+1151,58,,2,,,pending
+1152,214,laptop,5,200,,cancelled
+1153,167,laptop,5,300,,
+1154,299,mouse,3,100,,cancelled
+1155,220,chair,4,300,,cancelled
+1156,133,,5,500,,cancelled
+1157,93,keyboard,2,100,,shipped
+1158,129,keyboard,2,300,8/10/2023 0:00,cancelled
+1159,187,mouse,4,100,,
+1160,293,,1,unknown,9/20/2023 0:00,pending
+1161,277,desk,5,400,,shipped
+1162,52,desk,,300,5/5/2023 0:00,pending
+1163,72,keyboard,5,,2/16/2023 0:00,shipped
+1164,185,laptop,4,,,pending
+1165,113,mouse,2,500,,pending
+1166,96,chair,1,200,,pending
+1167,244,keyboard,,100,,shipped
+1168,277,chair,3,unknown,2/14/2023 0:00,pending
+1169,185,desk,2,,3/10/2023 0:00,shipped
+1170,51,,,500,,
+1171,97,keyboard,,,7/5/2023 0:00,cancelled
+1172,134,laptop,4,unknown,1/24/2023 0:00,pending
+1173,201,desk,5,300,5/1/2023 0:00,shipped
+1174,22,chair,1,,,pending
+1175,256,mouse,1,200,10/31/2023 0:00,cancelled
+1176,70,desk,4,unknown,1/18/2023 0:00,pending
+1177,77,chair,2,300,10/2/2023 0:00,cancelled
+1178,144,,3,unknown,,shipped
+1179,225,chair ,3,500,,cancelled
+1180,278,chair,,400,,shipped
+1181,21,keyboard,,300,,cancelled
+1182,98,chair,,,,cancelled
+,251,mouse,,,,pending
+1184,98,desk,,100,,shipped
+,200,laptop ,,,,cancelled
+1186,128,desk,4,300,,shipped
+1187,103,desk,1,200,,shipped
+1188,101,chair,4,200,1/28/2024 0:00,
+1189,131,,,300,,cancelled
+1190,236,keyboard,4,,,
+1191,293,laptop,4,,,shipped
+1192,63,laptop,3,300,,shipped
+1193,77,chair,5,300,9/30/2023 0:00,shipped
+1194,199,mouse,,400,3/27/2023 0:00,pending
+1195,255,laptop,3,200,,
+1196,122,chair,,500,11/16/2023 0:00,pending
+1197,103,mouse,3,300,,shipped
+1198,74,desk,3,,,
+1199,50,laptop,4,300,,
