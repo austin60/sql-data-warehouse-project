@@ -1,0 +1,23 @@
+/*create table*/
+CREATE TABLE sales_erp(
+	order_id INT,
+	customer_id INT,
+	product VARCHAR(50),
+    quantity INT,
+	price INT,
+	order_date VARCHAR(50),
+	curr_status VARCHAR(50)
+);
+
+/*SET GLOBAL local_infile = 1;
+SHOW VARIABLES LIKE 'local_infile';*/
+
+/*load data from file*/
+LOAD DATA LOCAL INFILE 'C:/Users/HomePC/Desktop/vs/sql/erp_data.csv'
+INTO TABLE sales_erp
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES;
+
+/*show data/table */
+SELECT * FROM sales_erp;
