@@ -1,0 +1,97 @@
+/* make a table with replica structure of sales_erp*/
+CREATE TABLE silver_sales_erp LIKE sales_erp;
+/* copy paste from sales_erp*/
+INSERT INTO silver_sales_erp SELECT *FROM sales_erp;
+
+
+/*TRANSFORMATION*/
+
+/* delete fields with null product values*/
+DELETE FROM silver_sales_erp WHERE product = '';
+
+/* remove spaces in values*/
+UPDATE silver_sales_erp SET product=TRIM(product);
+UPDATE silver_sales_erp SET curr_status=TRIM(curr_status);
+
+/* set values to lower case */
+UPDATE silver_sales_erp
+SET product = LOWER(product);
+
+/* To help set price fields (product value is a variable)*/
+SET @avg_price=(
+           SELECT AVG(price) 
+           FROM silver_sales_erp 
+           WHERE product= 'laptop'
+           AND price != 0
+           );
+           
+UPDATE silver_sales_erp SET price = @avg_price WHERE product= 'laptop' AND price=0;
+
+/*round up average values to nearest 100*/
+SELECT * FROM silver_sales_erp WHERE MOD(price, 100) != 0;
+
+/*split date val and keep the first varchar date val*/ 
+UPDATE silver_sales_erp SET order_date= 
+           SUBSTRING_INDEX(order_date, ' ',1) 
+           WHERE order_date IS NOT NULL
+           OR TRIM(order_date)!= '';
+           
+/*convert varchar date val to date values*/            
+UPDATE silver_sales_erp 
+SET order_date=STR_TO_DATE(order_date,'%m/%d/%Y')
+WHERE order_date IS NOT NULL
+AND TRIM(order_date) != '';
+
+/*fill void date values*/           
+UPDATE silver_sales_erp s
+JOIN (
+    SELECT 
+        customer_id,
+        MAX(order_date) AS max_date
+    FROM silver_sales_erp
+    GROUP BY customer_id
+) t 
+ON s.customer_id = t.customer_id
+SET order_date = max_date
+WHERE TRIM(order_date)='';
+
+
+DELETE FROM silver_sales_erp WHERE quantity = 0 AND 
+LENGTH(curr_status) = 1 AND order_date IS NULL OR TRIM(order_date)= '';
+
+
+
+UPDATE silver_sales_erp s SET
+s.quantity = 1
+WHERE s.quantity = 0 AND s.price <= (
+        SELECT price FROM (
+			   SELECT price FROM 
+			   silver_sales_erp
+			   WHERE product='laptop' AND quantity = 1
+			   GROUP BY price 
+			   LIMIT 1
+               ) AS t
+          );
+
+/*SET NULL QUANTITY VALUES*/
+
+/*check for quantity distribution per price (product & price values vary)  */
+SELECT  price, COUNT(quantity) AS price_frequency,quantity
+FROM silver_sales_erp 
+WHERE price = 100 AND product = 'desk' GROUP BY quantity ORDER BY price_frequency DESC;
+
+/*set quantity values (product & price values vary) */
+UPDATE silver_sales_erp SET
+quantity= CASE
+		  WHEN RAND() < 0.3 THEN 5
+          WHEN RAND() >= 0.3 OR RAND() <= 0.6 THEN 1
+          ELSE 2
+          END
+WHERE price = 100 AND product = 'desk' AND quantity = 0;
+
+/*fill null values at curr_status*/
+UPDATE silver_sales_erp
+SET curr_status= 'n/a' WHERE LENGTH(curr_status) =1 ;
+
+
+SELECT * FROM silver_sales_erp;
