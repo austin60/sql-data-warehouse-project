@@ -1,0 +1,3 @@
+CREATE TABLE gold_sales_erp LIKE silver_sales_erp;
+INSERT INTO gold_sales_erp SELECT * FROM silver_sales_erp;
+SELECT * FROM gold_sales_erp;
